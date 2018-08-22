@@ -122,9 +122,3 @@ function randomColor() {
 	// push color value
 	return "rgb(" + red + ", " + green + ", " + blue + ")";
 }
-
-// 
-
-
-
-
